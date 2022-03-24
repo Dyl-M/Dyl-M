@@ -1,6 +1,5 @@
 # 👋 Hi there
 
-
 I'm Dylan **"Dyl-M"** Monfret, graduated in data science / applied mathematics.
 
 [![](https://github-readme-stats.vercel.app/api?username=Dyl-M&include_all_commits=1&hide=stars,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/Dyl-M/github-readme-stats)
