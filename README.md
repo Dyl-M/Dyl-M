@@ -15,10 +15,10 @@ Want to know little things about me? You just have to read this 😀  I mean, th
 
 ### 💙 Connect with me
 
-[![linkedin page](images/icon_linkedin.png)](https://www.linkedin.com/in/dylan-monfret/)
-[![twitter account](images/icon_twitter.png)](https://twitter.com/dyl_m_tweets)
-[![reddit account](images/icon_reddit.png)](https://www.reddit.com/user/Dyl_M)
-[![kaggle account](images/icon_kaggle.png)](https://www.kaggle.com/dylanmonfret)
+[![linkedin page](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/dylan-monfret/)
+[![twitter account](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/dyl_m_tweets)
+[![reddit account](https://img.icons8.com/ios-glyphs/30/000000/reddit.png)](https://www.reddit.com/user/Dyl_M)
+[![kaggle account](https://img.icons8.com/windows/32/000000/kaggle.png)](https://www.kaggle.com/dylanmonfret)
 
 ### 🏃‍♂️ Active project
 
