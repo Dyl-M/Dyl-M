@@ -9,9 +9,10 @@ Want to know little things about me? You just have to read this 😀  I mean, th
 ### 🤓 About Me
 
 - 🔭 Currently looking for a job in data science / data consulting.
-- 🌱 I’m currently learning how to build pages likes this and GitHub website (i.e. `user.github.io`).
+- 🌱 I’m currently learning how to build pages likes this and to little website (i.e. `user.github.io`).
 - 💡 I’m currently re-learning how to use YouTube API to revamp an older project 👀.
 - 🚑 I’m looking for help with my current Rocket League project, [`ballchasing_ml`](https://github.com/Dyl-M/ballchasing_ML).
+- 🤩 Passionate about **music**, **IT** and **sport / e-sport**.
 
 ### 💙 Connect with me
 
@@ -30,3 +31,4 @@ Want to know little things about me? You just have to read this 😀  I mean, th
 
 - 🎥 Automatic YouTube playlists updates (Soon).
 - 🎧 Automatic Spotify playlists updates (Soon).
+- 💻 Personal website.
