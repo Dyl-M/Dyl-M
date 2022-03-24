@@ -1,4 +1,4 @@
-## 👋 Hi there
+# 👋 Hi there
 
 I'm Dylan **"Dyl-M"** Monfret, graduated in data science / applied mathematics.
 
