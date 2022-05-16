@@ -33,8 +33,8 @@ Want to know little things about me? You just have to read this 😀 I mean, thi
 
 - **Repository**: [`auto_youtube_playlist`](https://github.com/Dyl-M/auto_youtube_playlist)
 - [🎧🔴 Music Lives](https://www.youtube.com/playlist?list=PLOMUdQFdS-XNaPVSol9qCUJvQvN5hO4hJ)
-- [🎧 Mixes - Podcasts - Live performances](https://www.youtube.com/playlist?list=PLOMUdQFdS-XMJ4NFHJlSALYAt4l-LPgS1) (Unlisted for now).
+- [🎧 Mixes - Podcasts - Live performances](https://www.youtube.com/playlist?list=PLOMUdQFdS-XMJ4NFHJlSALYAt4l-LPgS1)
 
 ## 📆 Planned projects
 
-- 🎧 Automatic Spotify playlists (Soon).
+- 🎧 Automatic Spotify playlists.
