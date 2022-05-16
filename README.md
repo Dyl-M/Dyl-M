@@ -9,13 +9,14 @@ Want to know little things about me? You just have to read this 😀 I mean, thi
 ## 🤓 About Me
 
 - 🔭 Currently looking for a job in data science / data consulting.
-- 🌱 I’m currently learning how to set up GitHub Actions / build workflows.
 - 🌱 I’m currently learning how to build little websites using GitHub (`user.github.io` type).
+- 💭 I’m currently learning how to set up GitHub Actions / build workflows.
 - 🚑 I’m looking for help with my current Rocket League project, [`ballchasing_ml`](https://github.com/Dyl-M/ballchasing_ML).
 - 🤩 Passionate about **IT**, **music** and **sport / e-sport**.
 
 ## 💙 Connect with me
 
+[![website](https://img.icons8.com/ios-filled/30/000000/domain.png)](https://dyl-m.github.io/)
 [![linkedin page](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/dylan-monfret/)
 [![twitter account](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/dyl_m_tweets)
 [![reddit account](https://img.icons8.com/ios-glyphs/30/000000/reddit.png)](https://www.reddit.com/user/Dyl_M)
@@ -36,5 +37,4 @@ Want to know little things about me? You just have to read this 😀 I mean, thi
 
 ## 📆 Planned projects
 
-- 💻 Personal website.
 - 🎧 Automatic Spotify playlists (Soon).
