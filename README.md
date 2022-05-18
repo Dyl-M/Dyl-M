@@ -3,7 +3,7 @@
 I'm Dylan **"Dyl-M"** Monfret, graduated in data science / applied mathematics.
 
 [![Dyl-M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyl-M&include_all_commits=1&hide=stars,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/Dyl-M?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyl-M&layout=compact)](https://github.com/Dyl-M?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyl-M&layout=compact&theme=dark)](https://github.com/Dyl-M?tab=repositories)
 
 Want to know little things about me? You just have to read this 😀 I mean, this kind of files are called `README` for a reason, right? 🙃
 
