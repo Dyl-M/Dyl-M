@@ -9,7 +9,7 @@ Want to know little things about me? You just have to read this 😀 I mean, thi
 
 ## 🤓 About Me
 
-- 🔭 Currently looking for a job in data science / data consulting.
+- 👨‍💻 Currently working for...
 - 🌱 I’m currently learning how to build little websites using GitHub (`user.github.io` type).
 - 💭 I’m currently learning how to set up GitHub Actions / build workflows.
 - 🚑 I’m looking for help with my current Rocket League project, [`ballchasing_ml`](https://github.com/Dyl-M/ballchasing_ML).
