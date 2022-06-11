@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Dylan **"Dyl-M"** Monfret, graduated in data science / applied mathematics.
+I'm Dylan **"Dyl-M"** Monfret, Data Engineer, graduated in data science / applied mathematics.
 
 [![Dyl-M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyl-M&include_all_commits=1&hide=stars,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/Dyl-M?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyl-M&layout=compact&theme=dark)](https://github.com/Dyl-M?tab=repositories)
@@ -9,7 +9,7 @@ Want to know little things about me? You just have to read this 😀 I mean, thi
 
 ## 🤓 About Me
 
-- 👨‍💻 Currently working for...
+- 👨‍💻 Currently working for ASTEK (France) as Big Data Engineer.
 - 🌱 I’m currently learning how to build little websites using GitHub (`user.github.io` type).
 - 💭 I’m currently learning how to set up GitHub Actions / build workflows.
 - 🚑 I’m looking for help with my current Rocket League project, [`ballchasing_ml`](https://github.com/Dyl-M/ballchasing_ML).
