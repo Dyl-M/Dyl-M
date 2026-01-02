@@ -9,7 +9,6 @@ I'm Dylan **"Dyl-M"** Monfret, Data Engineer, graduated in data science / applie
 - 🤩 Passionate about **IT**, **music** and **sport / e-sport**.
 
 [![Dyl-M's GitHub stats](./profile/stats.svg)](https://github.com/Dyl-M?tab=repositories)
-![Top Languages](./profile/top-langs.svg)
 
 ## 🏃‍♂️ Active projects
 
