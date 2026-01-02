@@ -5,41 +5,36 @@ I'm Dylan **"Dyl-M"** Monfret, Data Engineer, graduated in data science / applie
 ## 🤓 About Me
 
 - 👨‍💻 Currently working for ASTEK (France) as Big Data Engineer.
-- 🌱 I’m currently learning how to build little websites using GitHub (`user.github.io` type).
-- 🚑 I’m looking for help and advice on my current Python project [`libpybee`](https://github.com/Dyl-M/libpybee).
+- 🚑 I’m looking for help and advice on my current Python package [`libpybee`](https://github.com/Dyl-M/libpybee).
 - 🤩 Passionate about **IT**, **music** and **sport / e-sport**.
 
-[![Dyl-M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyl-M&include_all_commits=1&hide=stars,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/Dyl-M?tab=repositories)
-
-## 💙 Connect with me
-
-[![twitter account](https://img.icons8.com/?size=48&id=13963&format=png)](https://twitter.com/dyl_m_tweets)
-[![linkedin page](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/dylan-monfret/)
-[![kaggle account](https://img.icons8.com/?size=48&id=bMncK0wGFANA&format=png)](https://www.kaggle.com/dylanmonfret)
+[![Dyl-M's GitHub stats](./profile/stats.svg)](https://github.com/Dyl-M?tab=repositories)
 
 ## 🏃‍♂️ Active projects
 
 #### 🐝 MusicBee Library Parser
 
-- **Repository**: [`libpybee`](https://github.com/Dyl-M/libpybee).
-- [**PyPi**](https://pypi.org/project/libpybee/)
+- **Repository**: [`libpybee`](https://github.com/Dyl-M/libpybee) / [**PyPi**](https://pypi.org/project/libpybee/)
+- MusicBee Library Parser in Python (based on Liam Kaufman's "libpytunes").
 
 #### 🎥 Automatic YouTube playlists.
 
-- **Repositories**: [`auto_youtube_playlist`](https://github.com/Dyl-M/auto_youtube_playlist) & [`youtube_release_tracker`](https://github.com/Dyl-M/youtube_release_tracker)
-- [🎧🔴 Music Livestreams](https://www.youtube.com/playlist?list=PLOMUdQFdS-XNaPVSol9qCUJvQvN5hO4hJ)
-- [🎧 Mixes - Podcasts - Live performances](https://www.youtube.com/playlist?list=PLOMUdQFdS-XMJ4NFHJlSALYAt4l-LPgS1)
-- [🚨 BANGER RADAR](https://www.youtube.com/playlist?list=PLOMUdQFdS-XOI8OIWV_Gx-SRhlCS9PKLn)
-- [📡 RELEASE RADAR](https://www.youtube.com/playlist?list=PLOMUdQFdS-XNe56Ot6KQmsR4cLT2ua9IC)
-- [⏳ Watch Later 2K24](https://www.youtube.com/playlist?list=PLOMUdQFdS-XPfjAeBp5TuNDQmMoiJHdvB) (Private)
+- **Repository**: [`youtube_release_tracker`](https://github.com/Dyl-M/youtube_release_tracker)
+- YouTube video release tracker, using Google Cloud Platform API / YouTube API V3.
+
+#### 📊 Music Charts
+
+- **Repository**: [`music-charts`](https://github.com/Dyl-M/music-charts)
+- Data pipeline for analyzing track performance across streaming platforms and generating power rankings.
 
 ## 💤 Dormant / stand-by projects
 
-#### 🎮 Rocket League Championship Series 2021-22 / Machine Learning with Rocket League.
+#### 🎥 Automatic YouTube playlists (legacy, exist for long music video only).
+
+- **Repository**: [`auto_youtube_playlist`](https://github.com/Dyl-M/auto_youtube_playlist)
+- Processes will be merged into [`youtube_release_tracker`](https://github.com/Dyl-M/youtube_release_tracker).
+
+#### 🎮 Rocket League Championship Series datasets / Machine Learning with Rocket League.
 
 - **Repository**: [`rlcs_data`](https://github.com/Dyl-M/rlcs_data).
 - [Kaggle dataset](https://www.kaggle.com/datasets/dylanmonfret/rlcs-202122).
-
-## 📆 Planned projects
-
-- 🎧 Automatic Spotify playlists.
