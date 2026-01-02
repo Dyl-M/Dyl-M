@@ -9,23 +9,13 @@ I'm Dylan **"Dyl-M"** Monfret, Data Engineer, graduated in data science / applie
 - 🤩 Passionate about **IT**, **music** and **sport / e-sport**.
 
 [![Dyl-M's GitHub stats](./profile/stats.svg)](https://github.com/Dyl-M?tab=repositories)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🏃‍♂️ Active projects
 
-#### 🐝 MusicBee Library Parser
-
-- **Repository**: [`libpybee`](https://github.com/Dyl-M/libpybee) / [**PyPi**](https://pypi.org/project/libpybee/)
-- MusicBee Library Parser in Python (based on Liam Kaufman's "libpytunes").
-
-#### 🎥 Automatic YouTube playlists.
-
-- **Repository**: [`youtube_release_tracker`](https://github.com/Dyl-M/youtube_release_tracker)
-- YouTube video release tracker, using Google Cloud Platform API / YouTube API V3.
-
-#### 📊 Music Charts
-
-- **Repository**: [`music-charts`](https://github.com/Dyl-M/music-charts)
-- Data pipeline for analyzing track performance across streaming platforms and generating power rankings.
+[![libpybee](./profile/pin-libpybee.svg)](https://github.com/Dyl-M/libpybee)
+[![youtube_release_tracker](./profile/pin-youtube_release_tracker.svg)](https://github.com/Dyl-M/youtube_release_tracker)
+[![music-charts](./profile/pin-music-charts.svg)](https://github.com/Dyl-M/music-charts)
 
 ## 💤 Dormant / stand-by projects
 
