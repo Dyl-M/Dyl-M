@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dylan's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  : 1813, Total PRs: 76, Merged PRs Percentage: 97.37, Total Issues: 29, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  : 1814, Total PRs: 76, Merged PRs Percentage: 97.37, Total Issues: 29, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #00bfff;
+            fill: #58a6ff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #00bfff;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00bfff;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #00bfff;
+      fill: #58a6ff;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #00bfff;
+      stroke: #58a6ff;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #00bfff;
+      stroke: #58a6ff;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 141.65831385112904;
+        stroke-dashoffset: 141.65005354425398;
       }
     }
   
