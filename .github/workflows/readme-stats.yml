@@ -51,12 +51,12 @@ jobs:
           path: profile/pin-liquipydia.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin - liquiepdia-editing-toolkit
+      - name: Generate pin - liquipedia-editing-toolkit
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Dyl-M&repo=liquiepdia-editing-toolkit&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
-          path: profile/pin-liquiepdia-editing-toolkit.svg
+          options: username=Dyl-M&repo=liquipedia-editing-toolkit&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
+          path: profile/pin-liquipedia-editing-toolkit.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
