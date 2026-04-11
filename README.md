@@ -4,8 +4,8 @@ I'm Dylan **"Dyl-M"** Monfret, Data Engineer, graduated in data science / applie
 
 ## 🤓 About Me
 
-- 👨‍💻 Currently working for ASTEK (France) as Big Data Engineer.
-- 🚑 I’m looking for help and advice on my current Python package [`libpybee`](https://github.com/Dyl-M/libpybee).
+- 👨‍💻 Currently working for ASTEK Raised as Big Data Engineer.
+- 🚑 Looking for help / advices on [`libpybee`](https://github.com/Dyl-M/libpybee) & [`liquipydia`](https://github.com/Dyl-M/liquipydia).
 - 🤩 Passionate about **IT**, **music** and **sport / e-sport**.
 
 [![Dyl-M's GitHub stats](./profile/stats.svg)](https://github.com/Dyl-M?tab=repositories)
@@ -15,6 +15,8 @@ I'm Dylan **"Dyl-M"** Monfret, Data Engineer, graduated in data science / applie
 [![libpybee](./profile/pin-libpybee.svg)](https://github.com/Dyl-M/libpybee)
 [![youtube_release_tracker](./profile/pin-youtube_release_tracker.svg)](https://github.com/Dyl-M/youtube_release_tracker)
 [![music-charts](./profile/pin-music-charts.svg)](https://github.com/Dyl-M/music-charts)
+[![liquipydia](./profile/pin-liquipydia.svg)](https://github.com/Dyl-M/liquipydia)
+[![liquipedia-editing-toolkit](./profile/pin-liquipedia-editing-toolkit.svg)](https://github.com/Dyl-M/liquipedia-editing-toolkit)
 
 ## 💤 Dormant / stand-by projects
 
