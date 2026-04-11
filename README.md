@@ -14,9 +14,9 @@ I'm Dylan **"Dyl-M"** Monfret, Data Engineer, graduated in data science / applie
 
 [![libpybee](./profile/pin-libpybee.svg)](https://github.com/Dyl-M/libpybee)
 [![youtube_release_tracker](./profile/pin-youtube_release_tracker.svg)](https://github.com/Dyl-M/youtube_release_tracker)
-[![music-charts](./profile/pin-music-charts.svg)](https://github.com/Dyl-M/music-charts)
 [![liquipydia](./profile/pin-liquipydia.svg)](https://github.com/Dyl-M/liquipydia)
 [![liquipedia-editing-toolkit](./profile/pin-liquipedia-editing-toolkit.svg)](https://github.com/Dyl-M/liquipedia-editing-toolkit)
+[![music-charts](./profile/pin-music-charts.svg)](https://github.com/Dyl-M/music-charts)
 
 ## 💤 Dormant / stand-by projects
 
