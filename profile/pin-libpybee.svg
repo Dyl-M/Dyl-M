@@ -124,7 +124,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">MusicBee Library Parser in Python (based on Liam Kaufman's</tspan><tspan dy="1.2em" x="25">"libpytunes").</tspan>
+      <tspan dy="1.2em" x="25">MusicBee Library Parser in Python (based on Liam Kaufman&#39;s</tspan><tspan dy="1.2em" x="25">&#34;libpytunes&#34;).</tspan>
     </text>
 
     <g transform="translate(30, 65)">
