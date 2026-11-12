@@ -5,59 +5,54 @@ on:
     - cron: "0 0 1 * *"
   workflow_dispatch:
 
+env:
+  THEME: bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
+
 jobs:
-  build:
+  cards:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: stats
+            card: stats
+            options: include_all_commits=true&count_private=true&show_icons=true&hide=prs&ring_color=58a6ff
+          - { name: pin-libpybee, card: pin, options: repo=libpybee }
+          - { name: pin-youtube_release_tracker, card: pin, options: repo=youtube_release_tracker }
+          - { name: pin-music-charts, card: pin, options: repo=music-charts }
+          - { name: pin-esports-data-hub, card: pin, options: repo=esports-data-hub }
+          - { name: pin-liquipydia, card: pin, options: repo=liquipydia }
+          - { name: pin-liquipedia-editing-toolkit, card: pin, options: repo=liquipedia-editing-toolkit }
     steps:
       - uses: actions/checkout@v7
 
-      - name: Generate stats card
+      - name: Generate ${{ matrix.name }}
         uses: readme-tools/github-readme-stats-action@v2
         with:
-          card: stats
-          options: username=Dyl-M&include_all_commits=true&count_private=true&show_icons=true&hide=prs&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&hide_border=true
-          path: profile/stats.svg
+          card: ${{ matrix.card }}
+          options: username=Dyl-M&${{ matrix.options }}&${{ env.THEME }}
+          path: profile/${{ matrix.name }}.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin - libpybee
-        uses: readme-tools/github-readme-stats-action@v2
+      - uses: actions/upload-artifact@v7
         with:
-          card: pin
-          options: username=Dyl-M&repo=libpybee&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
-          path: profile/pin-libpybee.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          name: card-${{ matrix.name }}
+          path: profile/${{ matrix.name }}.svg
 
-      - name: Generate pin - youtube_release_tracker
-        uses: readme-tools/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=Dyl-M&repo=youtube_release_tracker&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
-          path: profile/pin-youtube_release_tracker.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+  commit:
+    needs: cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
 
-      - name: Generate pin - music-charts
-        uses: readme-tools/github-readme-stats-action@v2
+      - uses: actions/download-artifact@v8
         with:
-          card: pin
-          options: username=Dyl-M&repo=music-charts&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
-          path: profile/pin-music-charts.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin - liquipydia
-        uses: readme-tools/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=Dyl-M&repo=liquipydia&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
-          path: profile/pin-liquipydia.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin - liquipedia-editing-toolkit
-        uses: readme-tools/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=Dyl-M&repo=liquipedia-editing-toolkit&bg_color=135,30363d,0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
-          path: profile/pin-liquipedia-editing-toolkit.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          pattern: card-*
+          merge-multiple: true
+          path: profile
 
       - name: Commit cards
         run: |
